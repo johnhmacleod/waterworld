@@ -14,23 +14,18 @@ const char* ssid = "TEST";
 //const char * ssid = "IBMVISITOR";
 const char* password = "access2016";  
 
-//-------- Customise these 4 values with your device data from the IoT Platform -------- 
-#define ORG "5729ox" 
+//-------- Customise these values with your device data from the IoT Platform -------- 
+#define ORG "YOUR_ORG_HERE" 
 #define DEVICE_TYPE "WATERFLOW" 
 //#define DEVICE_ID "FLOW01" 
-//#define TOKEN "CvJ8wgERRSulksrVpt" 
+//#define TOKEN "FLOW01TOKEN" 
  
 #define DEVICE_ID "FLOW02" 
-#define TOKEN "?W9k5H1S-9T@3hC9*h" 
+#define TOKEN "FLOW02TOKEN" 
 
 //#define DEVICE_ID "FLOW03"
-//#define TOKEN "Po1!YFAUtMY_QDf39U"
+//#define TOKEN "FLOW03TOKEN"
 
-//#define DEVICE_ID "FLOW04"
-//#define TOKEN "U?NOS)NY50J8JlN!@f"
-
-//#define DEVICE_ID "FLOW05"
-//#define TOKEN "wcflW1bZ3Ii6S!Q3qh"
 
 #define ArrayLength  10 // Length of averaging array
 
