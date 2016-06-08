@@ -2,7 +2,7 @@ There are 3 significant components to this project
 
 1) The sketches that are loaded onto the ESP8266 boards
 
-2) The Node-Red flows that provide the dashboard and raise the maximo work orders
+2) The Node-Red flows that provide the dashboard and raise the maximo work orders (see the nodered folder for these)
 
 3) The maximo installation & helper app
 
