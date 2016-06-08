@@ -9,3 +9,5 @@ http://www.aliexpress.com/item/G1-2-Water-Flow-Sensor-Fluid-Flowmeter-Switch-Cou
 pH Meter
 http://www.dfrobot.com/index.php?route=product/product&product_id=1110&search=sen0169&description=true#.V0fsnuerZSu
 
+These are a bit more expensive than others from the same vendor but are fine with being continually submersed.
+
