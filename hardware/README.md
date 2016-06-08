@@ -2,10 +2,8 @@ This folder contains details of the hardware we used
 
 The Flow meter is a simple hall effect sensor with 3 connections
 
-+V
-
--V
-
++V <br>
+-V <br>
 Sense
 
 You can usually run these from 3.3V
