@@ -8,9 +8,11 @@ The Maximo installation is norally run on a laptop connected via a secure gatewa
 
 Follow the normal procedure to create a secure gateway connection from bluemix to the laptop.  This setup will provide you with a URL which is later used to configure the Maximo helper app installed on Bluemix.
 
+Then update the secure gateway URL in the helper app.  A zip file containing the helper app is provided in this folder.  Unzip it, update the URL (and username & password if needed) and "cf push" it to your BlueMix environment.
+
 ![Helper](helperappsetup.jpg)
 
-The file to update is 
+The file to update the URL in is 
 
 ![Gateway Configuration](configuregateway.jpg)
 
